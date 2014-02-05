@@ -1,0 +1,1259 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:ns6="http://dbpedia.org/ontology/PopulatedPlace/"
+	xmlns:dbpprop-it="http://it.dbpedia.org/property/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns10="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Strigno">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Trentino-Alto_Adige">
+    <dbpedia-owl:capital rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Provincia_autonoma_di_Trento">
+    <dbpedia-owl:map rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:capital rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:capoluogo rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Vigolo_Vattaro">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Albiano_(Italia)">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Avio">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Arco_(Italia)">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Besenello">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Borgo_Valsugana">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Calavino">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Carzano">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Cavalese">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Cavedine">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Cimone_(comune)">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Civezzano">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Dimaro">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Fiera_di_Primiero">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Faver">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Grumes">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Giovo">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Garniga_Terme">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Lasino">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Levico_Terme">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Lisignago">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Malosco">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Mezzocorona">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Molveno">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Nomi">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Ossana">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Padergnone">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Ragoli">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Sagron_Mis">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Spiazzo">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Storo">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Terlago">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Vezzano">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Trentino_Volley">
+    <dbpprop-it:città rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Carlo_Palermo">
+    <dbpprop-it:circoscrizione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Trento">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdfs:label xml:lang="it">Trento</rdfs:label>
+    <rdfs:comment xml:lang="it">Trento è un comune italiano di 115 368 abitanti, capoluogo dell&#39;omonima provincia e della regione Trentino-Alto Adige. Grazie alla progressiva creazione nell&#39;ultimo ventennio di diversi centri di ricerca, di laboratori e alla sua università è stato soprannominato la &quot;Silicon Valley delle Alpi&quot;.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/wiki/Q3376" />
+    <dcterms:subject rdf:resource="http://it.dbpedia.org/resource/Categoria:Trento" />
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100137</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://demo.istat.it/bilmens2012gen/query.php?lingua=ita&amp;Rip=S2&amp;Reg=R04&amp;Pro=P022&amp;Com=205&amp;submit=Tavola" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.comune.trento.it/" />
+    <foaf:name xml:lang="it">Trento</foaf:name>
+    <dbpedia-owl:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">115368</dbpedia-owl:populationTotal>
+    <dbpedia-owl:area rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.57e+08</dbpedia-owl:area>
+    <dbpedia-owl:leaderParty rdf:resource="http://it.dbpedia.org/resource/Partito_Democratico" />
+    <dbpedia-owl:leaderName rdf:resource="http://it.dbpedia.org/resource/Alessandro_Andreatta" />
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trentino-Alto_Adige" />
+    <dbpedia-owl:abstract xml:lang="it">Trento è un comune italiano di 115 368 abitanti, capoluogo dell&#39;omonima provincia e della regione Trentino-Alto Adige. Grazie alla progressiva creazione nell&#39;ultimo ventennio di diversi centri di ricerca, di laboratori e alla sua università è stato soprannominato la &quot;Silicon Valley delle Alpi&quot;.</dbpedia-owl:abstract>
+    <dbpedia-owl:demonym xml:lang="it">trentini o tridentini (storico)</dbpedia-owl:demonym>
+    <dbpedia-owl:vehicleCode xml:lang="it">TN</dbpedia-owl:vehicleCode>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Panorama_di_trento.jpg/200px-Panorama_di_trento.jpg" />
+    <dbpedia-owl:postalCode xml:lang="it">38121-38122-38123</dbpedia-owl:postalCode>
+    <dbpedia-owl:saint rdf:resource="http://it.dbpedia.org/resource/San_Vigilio" />
+    <dbpedia-owl:populationAsOf rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-11-30</dbpedia-owl:populationAsOf>
+    <dbpedia-owl:elevation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">194.0</dbpedia-owl:elevation>
+    <dbpedia-owl:electionDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-05-03</dbpedia-owl:electionDate>
+    <dbpedia-owl:areaCode xml:lang="it">0461</dbpedia-owl:areaCode>
+    <ns6:area rdf:datatype="http://dbpedia.org/datatype/squareKilometre">157.0</ns6:area>
+    <!--
+    <p: xmlns:p="http://airpedia.org/ontology/type_with_conf#10" rdf:resource="http://dbpedia.org/ontology/City" />
+    -->
+    <!--
+    <p: xmlns:p="http://airpedia.org/ontology/type_with_conf#10" rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    -->
+    <!--
+    <p: xmlns:p="http://airpedia.org/ontology/type_with_conf#10" rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    -->
+    <!--
+    <p: xmlns:p="http://airpedia.org/ontology/type_with_conf#10" rdf:resource="http://dbpedia.org/ontology/Place" />
+    -->
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Tartuca" />
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Demografia/Trento" />
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Stazioni_ferroviarie_di_Trento" />
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Nota" />
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:ClimaAnnuale" />
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:TA" />
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:References" />
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Divisione_amministrativa" />
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Onorificenze" />
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Bandiera" />
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Dmoz" />
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Avvisounicode" />
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Citazione_necessaria" />
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Vedi_anche" />
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Capoluoghi_di_provincia_italiani" />
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Portale" />
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Interprogetto" />
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Nd" />
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:IPA" />
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Provincia_di_Trento" />
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Città_alpine_dell&#39;anno" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.0667</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">11.1167</geo:long>
+    <georss:point xml:lang="it">46.06666666666667 11.116666666666667</georss:point>
+    <foaf:homepage rdf:resource="http://www.comune.trento.it/" />
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/6/69/Panorama_di_trento.jpg" />
+    <dbpprop-it:titolo xml:lang="it">Le origini del nome</dbpprop-it:titolo>
+    <dbpprop-it:nome xml:lang="it">TRENTO</dbpprop-it:nome>
+    <dbpprop-it:nome xml:lang="it">Trento</dbpprop-it:nome>
+    <dbpprop-it:immagine xml:lang="it">Valor militare gold medal BAR.svg</dbpprop-it:immagine>
+    <dbpprop-it:didascalia xml:lang="it">Panorama della città dalla frazione di Sardagna</dbpprop-it:didascalia>
+    <dbpprop-it:altitudine rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">194</dbpprop-it:altitudine>
+    <dbpprop-it:targa xml:lang="it">TN</dbpprop-it:targa>
+    <dbpprop-it:sito rdf:resource="http://www.comune.trento.it/" />
+    <dbpprop-it:partito rdf:resource="http://it.dbpedia.org/resource/Partito_Democratico" />
+    <dbpprop-it:nomeOnorificenza xml:lang="it">Città decorate al Valor Militare per la Guerra di Liberazione</dbpprop-it:nomeOnorificenza>
+    <dbpprop-it:collegamentoOnorificenza xml:lang="it">Città decorate al Valor Militare per la Guerra di Liberazione</dbpprop-it:collegamentoOnorificenza>
+    <dbpprop-it:latitudineGradi rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</dbpprop-it:latitudineGradi>
+    <dbpprop-it:latitudineNs xml:lang="it">N</dbpprop-it:latitudineNs>
+    <dbpprop-it:longitudineGradi rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dbpprop-it:longitudineGradi>
+    <dbpprop-it:longitudineEw xml:lang="it">E</dbpprop-it:longitudineEw>
+    <dbpprop-it:stato xml:lang="it">ITA</dbpprop-it:stato>
+    <dbpprop-it:abitanti rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">115368</dbpprop-it:abitanti>
+    <dbpprop-it:panorama xml:lang="it">panorama di trento.jpg</dbpprop-it:panorama>
+    <dbpprop-it:bandiera xml:lang="it">Flag of Trento.png</dbpprop-it:bandiera>
+    <dbpprop-it:stemma xml:lang="it">Trento-Stemma.png</dbpprop-it:stemma>
+    <dbpprop-it:gradoAmministrativo rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</dbpprop-it:gradoAmministrativo>
+    <dbpprop-it:divisioneAmmGrado xml:lang="it">Trento</dbpprop-it:divisioneAmmGrado>
+    <dbpprop-it:divisioneAmmGrado xml:lang="it">Trentino-Alto Adige</dbpprop-it:divisioneAmmGrado>
+    <dbpprop-it:amministratoreLocale rdf:resource="http://it.dbpedia.org/resource/Alessandro_Andreatta" />
+    <dbpprop-it:dataElezione rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</dbpprop-it:dataElezione>
+    <dbpprop-it:latitudineMinuti rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</dbpprop-it:latitudineMinuti>
+    <dbpprop-it:latitudineSecondi rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbpprop-it:latitudineSecondi>
+    <dbpprop-it:longitudineMinuti rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</dbpprop-it:longitudineMinuti>
+    <dbpprop-it:longitudineSecondi rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbpprop-it:longitudineSecondi>
+    <dbpprop-it:superficie rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15792</dbpprop-it:superficie>
+    <dbpprop-it:noteAbitanti rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-30</dbpprop-it:noteAbitanti>
+    <dbpprop-it:aggiornamentoAbitanti rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</dbpprop-it:aggiornamentoAbitanti>
+    <dbpprop-it:sottodivisioni xml:lang="it">Vedi [[#Frazioni</dbpprop-it:sottodivisioni>
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Pergine_Valsugana" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Albiano" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Cimone_(comune)" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Cavedine" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Civezzano" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Villa_Lagarina" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Garniga_Terme" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Giovo" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Lasino" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Aldeno" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Vigolo_Vattaro" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Padergnone" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Terlago" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Vezzano" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Lavis" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Besenello" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Calavino" />
+    <dbpprop-it:codicePostale rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38121</dbpprop-it:codicePostale>
+    <dbpprop-it:prefisso rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">461</dbpprop-it:prefisso>
+    <dbpprop-it:fusoOrario xml:lang="it">+1</dbpprop-it:fusoOrario>
+    <dbpprop-it:codiceStatistico rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22205</dbpprop-it:codiceStatistico>
+    <dbpprop-it:codiceCatastale xml:lang="it">L378</dbpprop-it:codiceCatastale>
+    <dbpprop-it:zonaSismica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</dbpprop-it:zonaSismica>
+    <dbpprop-it:gradiGiorno rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2567</dbpprop-it:gradiGiorno>
+    <dbpprop-it:nomeAbitanti xml:lang="it">trentini o tridentini</dbpprop-it:nomeAbitanti>
+    <dbpprop-it:patrono rdf:resource="http://it.dbpedia.org/resource/San_Vigilio" />
+    <dbpprop-it:festivo rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</dbpprop-it:festivo>
+    <dbpprop-it:tempmax rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">282</dbpprop-it:tempmax>
+    <dbpprop-it:tempmax rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">270</dbpprop-it:tempmax>
+    <dbpprop-it:tempmax rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">255</dbpprop-it:tempmax>
+    <dbpprop-it:tempmax rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">230</dbpprop-it:tempmax>
+    <dbpprop-it:tempmax rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">212</dbpprop-it:tempmax>
+    <dbpprop-it:tempmax rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">165</dbpprop-it:tempmax>
+    <dbpprop-it:tempmax rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">173</dbpprop-it:tempmax>
+    <dbpprop-it:tempmax rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">128</dbpprop-it:tempmax>
+    <dbpprop-it:tempmax rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">99</dbpprop-it:tempmax>
+    <dbpprop-it:tempmax rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79</dbpprop-it:tempmax>
+    <dbpprop-it:tempmax rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</dbpprop-it:tempmax>
+    <dbpprop-it:tempmax rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58</dbpprop-it:tempmax>
+    <dbpprop-it:tempmin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-18</dbpprop-it:tempmin>
+    <dbpprop-it:tempmin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-9</dbpprop-it:tempmin>
+    <dbpprop-it:tempmin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">161</dbpprop-it:tempmin>
+    <dbpprop-it:tempmin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">166</dbpprop-it:tempmin>
+    <dbpprop-it:tempmin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">131</dbpprop-it:tempmin>
+    <dbpprop-it:tempmin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">144</dbpprop-it:tempmin>
+    <dbpprop-it:tempmin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">107</dbpprop-it:tempmin>
+    <dbpprop-it:tempmin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78</dbpprop-it:tempmin>
+    <dbpprop-it:tempmin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</dbpprop-it:tempmin>
+    <dbpprop-it:tempmin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</dbpprop-it:tempmin>
+    <dbpprop-it:tempmin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbpprop-it:tempmin>
+    <dbpprop-it:tempmin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</dbpprop-it:tempmin>
+    <dbpprop-it:motivazione xml:lang="it">Permeata nella cultura, nella lingua e nelle tradizioni da secoli di civiltà italica strenuamente difesa contro ogni tentativo di mortificazione, la città di Trento, già presente durante il secolo scorso nei fermenti di libertà dei moti risorgimentali, anche nel corso della prima guerra mondiale aveva dimostrato l&#39;elevatezza dei suoi sentimenti patriottici, testimoniandoli con l&#39;olocausto dei suoi figli migliori, con l&#39;accorrere di volontari, col sacrificio di numerosi cittadini impiccati, caduti e feriti in combattimento, deportati o imprigionati. Nuovamente strappato alla Madre Patria dalla prepotenza nazifascista, il popolo trentino, traendo luce da quelle gloriose radiazioni, si pose ancora una volta al baluardo d&#39;italianità. Da una vasta rete di cospirazione trasse vita un&#39;organizzazione di lotta clandestina che investì tutta la provincia. Monti, valichi, vallate furono campi d&#39;attività delle formazioni partigiane, d&#39;azioni di guerriglia e di sabotaggio, che ostacolarono e spesso impedirono il movimento d&#39;uomini, di mezzi, di materiale lungo le importanti vie operative del nemico, che subì ingenti perdite e onerosi danni. Nonostante la barbara repressione operata dalle locali forze d&#39;occupazione e dall&#39;aviazione nemica, la gente trentina diede spontaneo supporto alla Resistenza nella città, nei sobborghi, sulle montagne, nelle fabbriche e perfino nei campi di concentramento, dove si organizzava la fuga e l&#39;assistenza dei prigionieri di guerra. A prezzo d&#39;altri gravi sacrifici i Trentini portarono così a felice compimento l&#39;impegno, sempre vivo, di costante affermazione della loro unità con tutto il popolo italiano nella fede e nella lotta per la libertà.</dbpprop-it:motivazione>
+    <dbpprop-it:luogo rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dbpprop-it:luogo>
+    <dbpprop-it:contenuto xml:lang="it">Secondo la tradizione latina il toponimo Trento deriva da Tridentum  per via dei tre colli  che circondano la città.
+
+In realtà il nome è ben più vecchio e di origine retica. Il toponimo deriva infatti da trent, ovvero triforcazione .
+
+120|px|right|thumb|Aquila bronzea con l&#39;iscrizione
+Nonostante tutto la tradizione latina ha avuto la meglio, al punto che sul vecchio municipio si legge ancora l&#39;iscrizione latina Montes argentum mihi dant nomenque Tridentum , dovuta a Fra Bartolomeo da Trento .</dbpprop-it:contenuto>
+    <dbpprop-it:pioggia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58</dbpprop-it:pioggia>
+    <dbpprop-it:pioggia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</dbpprop-it:pioggia>
+    <dbpprop-it:pioggia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</dbpprop-it:pioggia>
+    <dbpprop-it:pioggia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</dbpprop-it:pioggia>
+    <dbpprop-it:pioggia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">83</dbpprop-it:pioggia>
+    <dbpprop-it:pioggia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">76</dbpprop-it:pioggia>
+    <dbpprop-it:pioggia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79</dbpprop-it:pioggia>
+    <dbpprop-it:pioggia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74</dbpprop-it:pioggia>
+    <dbpprop-it:pioggia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</dbpprop-it:pioggia>
+    <dbpprop-it:pioggia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">106</dbpprop-it:pioggia>
+    <dbpprop-it:pioggia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">107</dbpprop-it:pioggia>
+    <dbpprop-it:pioggia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">96</dbpprop-it:pioggia>
+    <dbpprop-it:giornipioggia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</dbpprop-it:giornipioggia>
+    <dbpprop-it:giornipioggia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dbpprop-it:giornipioggia>
+    <dbpprop-it:giornipioggia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</dbpprop-it:giornipioggia>
+    <dbpprop-it:giornipioggia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</dbpprop-it:giornipioggia>
+    <dbpprop-it:giornipioggia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</dbpprop-it:giornipioggia>
+    <dbpprop-it:giornipioggia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</dbpprop-it:giornipioggia>
+    <dbpprop-it:giornipioggia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</dbpprop-it:giornipioggia>
+    <ns10:wasDerivedFrom rdf:resource="http://it.wikipedia.org/wiki/Trento?oldid=59188347" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://it.wikipedia.org/wiki/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/MC-link">
+    <dbpedia-owl:location rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Chiara_Lubich">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Le_strade,_gli_amici,_il_concerto">
+    <dbpedia-owl:recordedIn rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Fabio_Filzi">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Damiano_Chiesa">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Francesco_Guardi">
+    <dbpedia-owl:location rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Andrea_Pozzo">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Trentino_trasporti">
+    <dbpedia-owl:location rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:foundationPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:sede rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Valerio_Negrini">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Mattarello">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Enrico_Quaresima">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Claudio_Dematté">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Strada_statale_349_di_Val_d&#39;Assa_e_Pedemontana_Costo">
+    <dbpprop-it:inizio rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Castello_del_Buonconsiglio">
+    <dbpprop-it:città rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Siegfried_Brugger">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoNascita rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stefano_Cagol">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Torre_Falco">
+    <dbpprop-it:città rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Torre_Aquila">
+    <dbpprop-it:città rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Luigi_Carbonari">
+    <dbpprop-it:collegio rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Principato_vescovile_di_Trento">
+    <dbpprop-it:capitalePrincipale rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Francesco_Antonio_Bonporti">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Alberto_Pacher">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Giannantonio_Manci">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Ercole_Gonzaga">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Girolamo_Seripando">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Ida_Dalser">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Strada_statale_45_bis_Gardesana_Occidentale">
+    <dbpprop-it:fine rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Martignano_(Trento)">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Università_degli_Studi_di_Verona">
+    <dbpprop-it:città rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Gardolo">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Simonino_di_Trento">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Pergine_Valsugana">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Giacomo_Bresadola">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stadio_Briamasco">
+    <dbpprop-it:proprietario rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Bruno_Kessler">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoMorte rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Cantine_Ferrari">
+    <dbpedia-owl:location rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:foundationPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoFondazione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Valle_dell&#39;Adige">
+    <dbpprop-it:comuni rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Volano_(Italia)">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Ludovico_Madruzzo">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Andrea_Braido">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Cesare_Battisti">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:restingPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:collegio rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Strada_statale_47_della_Valsugana">
+    <dbpprop-it:fine rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Antonio_Petrini">
+    <dbpprop-it:città rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Napoli_Soccer_2005-2006">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Trentino_Cricket_Club">
+    <dbpprop-it:città rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Mesiano">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Giovanni_Kessler">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoNascita rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Martino_Martini_(gesuita)">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Cattedrale_di_San_Vigilio">
+    <dbpedia-owl:locationCity rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Mauro_Betta">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoNascita rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Giacomo_Bezzi">
+    <dbpprop-it:luogoNascita rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Luigi_Olivieri">
+    <dbpprop-it:luogoNascita rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Cristiano_Dalla_Pellegrina">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Cristoforo_Migazzi">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Gigino_Battisti">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoNascita rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Tullio_Odorizzi">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:città rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Flaminio_Piccoli">
+    <dbpprop-it:collegio rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Elisabetta_Conci">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoNascita rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Giorgio_Graffer">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:natoA rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Trentino_(quotidiano)">
+    <dbpprop-it:sede rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Enrico_Conci">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoNascita rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoMorte rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Guido_Larcher">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoNascita rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoMorte rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Unione_Sportiva_Alessandria_1912_2006-2007">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Aldeno">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Villamontagna">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Unione_Sportiva_Alessandria_1912_2007-2008">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Autostrada_del_Brennero_(azienda)">
+    <dbpedia-owl:location rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:foundationPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoFondazione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Carlo_Ferdinando_Lodron">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Unione_Sportiva_Città_di_Palermo_2006-2007">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Sebastiano_Paride_Lodron">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Trento_Filmfestival">
+    <dbpprop-it:luogo rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Cognola">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Montevaccino">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Associazione_Calcio_Femminile_Trento">
+    <dbpprop-it:città rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Guido_De_Unterrichter">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoMorte rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Rolando_Fontan">
+    <dbpprop-it:luogoNascita rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Anna_Maestri">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Val_Rabbia">
+    <dbpprop-it:città rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Patata_trentina_di_montagna">
+    <dbpprop-it:zona rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Sardagna">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Sergio_Divina">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoNascita rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:collegio rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Vigilio_Covi">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Bassano_del_Grappa">
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Battaglia_di_Calliano">
+    <dbpprop-it:luogo rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Forno_(Moena)">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Cadine">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Noale-Scorzè">
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Ferruccio_Stefenelli">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Pietro_Andrea_Mattioli">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Matthias_Gallas">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Comunità_Alta_Valsugana_e_Bersntol">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Baselga_di_Piné">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Trento">
+    <dbpedia-owl:location rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Florentia_Viola_2002-2003">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Tridentum">
+    <dbpprop-it:suddivisione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Joseph_Maria_von_Thun_und_Hohenstein">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Vittorio_Zippel">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Oltrefersina">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Galeazzo_von_Thun_und_Hohenstein">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoDiNascita rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Trebaseleghe_(2005)">
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Paolo_Oss_Mazzurana">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Celestino_Endrici">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Pergine">
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Strigno">
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Atalanta_Bergamasca_Calcio_1938-1939">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Atalanta_Bergamasca_Calcio_1930-1931">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Atalanta_Bergamasca_Calcio_1929-1930">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Giuseppe_Placido_Nicolini">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Atalanta_Bergamasca_Calcio_1926-1927">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Comunità_Valsugana_e_Tesino">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Udinese_Calcio_2006-2007">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/San_Cristoforo_al_Lago">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Levico_Terme">
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Roncegno_Bagni-Marter">
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Borgo_Valsugana_Est">
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Borgo_Valsugana_Centro">
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Marcello_Guarducci">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Caldonazzo">
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Calceranica">
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Trento_Santa_Chiara">
+    <dbpedia-owl:location rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Villazzano">
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Povo-Mesiano">
+    <dbpedia-owl:location rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Trento_FTM">
+    <dbpedia-owl:location rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Consiglio_della_Provincia_autonoma_di_Trento">
+    <dbpprop-it:sede rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Coppa_Italia_Serie_C_2003-2004">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Coppa_Italia_Serie_C_2001-2002">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Consiglio_regionale_del_Trentino-Alto_Adige">
+    <dbpprop-it:sede rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Ravina_(Trento)">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Banca_Popolare_del_Trentino">
+    <dbpedia-owl:location rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:foundationPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:sede rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoFondazione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Passo_del_Cimirlo">
+    <dbpprop-it:localitàCollegate rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Carlo_Emanuele_Sardagna_de_Hohenstein">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_San_Cristoforo_al_Lago-Ischia">
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Umberto_Moggioli">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Chiesa_di_Santa_Maria_Maggiore_(Trento)">
+    <dbpedia-owl:locationCity rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:città rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Riva_del_Garda">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Grigno">
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Cimitero_Monumentale_di_Trento">
+    <dbpprop-it:città rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Silvio_Dorigoni">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Tezze_di_Grigno">
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Trento_San_Bartolameo">
+    <dbpedia-owl:location rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:localizzazione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Francesco_Ambrosi">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Monumento_a_Dante_a_Trento">
+    <dbpedia-owl:location rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:città rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/2º_Reggimento_artiglieria_terrestre_%22Vicenza%22">
+    <dbpprop-it:guarnigione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Spinea">
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Trento_Nord-Zona_commerciale">
+    <dbpedia-owl:location rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Gardolo">
+    <dbpedia-owl:location rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:localizzazione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Piombino_Dese">
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Gardolo_di_Mezzo">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Solagna">
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Leopold_Maximilian_von_Firmian">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Friedrich_Nausea">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Primolano">
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Luigi_Mengoni">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Spini-Zona_Industriale">
+    <dbpedia-owl:location rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Giovanni_Battista_Ceschi_a_Santa_Croce">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoDiNascita rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Benedetto_Riccabona_de_Reinchenfels">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/102ª_Divisione_motorizzata_%22Trento%22">
+    <dbpprop-it:guarnigione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Aquila_Basket_Trento">
+    <dbpprop-it:città rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Mattarello">
+    <dbpedia-owl:location rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:localizzazione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Baselga_del_Bondone">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Simon_Gintzler">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Villa_Lagarina">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Associazione_Sportiva_Varese_1910_2009-2010">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Calcio_Como_2008-2009">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Società_Sportiva_Barletta_Calcio_2009-2010">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Lavis">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:divisioniConfinanti rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Associazione_Calcio_Lumezzane_2009-2010">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Autorità_di_bacino_del_fiume_Adige">
+    <dbpprop-it:sede rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Rovereto">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Associazione_Calcio_Feralpi_Salò_2009-2010">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Ilona_Staller">
+    <dbpprop-it:città rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Lamar">
+    <dbpedia-owl:location rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Celva">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Povo">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Oltrecastello">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Ponte_Arche">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Chiesa_del_Santissimo_Sacramento_(Trento)">
+    <dbpedia-owl:locationCity rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Leopold_Ernst_von_Firmian">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Francesco_Felice_Alberti_di_Enno">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Rifugio_Pino_Prati">
+    <dbpprop-it:localita rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Carlo_Emanuele_Madruzzo">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Elisabetta_Bertotti">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoNascita rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Maerne_di_Martellago">
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Salzano-Robegano">
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Resana">
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/ATA-Trentino">
+    <dbpprop-it:luogo rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Alessandro_Paoli">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Reverdito_Editore">
+    <dbpedia-owl:location rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:foundationPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoFondazione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Rimini_Calcio_Football_Club_2007-2008">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Rimini_Calcio_Football_Club_2006-2007">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Calcio_Como_2009-2010">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stazione_di_Grumo-San_Michele">
+    <dbpprop-it:direzione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Francesco_Alberti_Poja">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Coppa_Italia_2010-2011_(turni_preliminari)">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Unione_Sportiva_Alessandria_1912_2010-2011">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Trapani_Calcio_2010-2011">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Associazione_Calcio_Sambonifacese_2010-2011">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Rimini_Calcio_Football_Club_2004-2005">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Novara_Calcio_2008-2009">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Dermulo">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/SLOI">
+    <dbpedia-owl:foundationPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoFondazione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Atletico_Roma_Football_Club_2010-2011">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Franco_Gadotti">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Dolomiti_Energia">
+    <dbpedia-owl:location rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:foundationPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:sede rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoFondazione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Chiesa_di_Santa_Maria_Assunta_(Villa_Lagarina)">
+    <dbpprop-it:diocesi rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stefano_Pisetta">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Torneo_di_Viareggio_2006">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Alcide_Berloffa">
+    <dbpprop-it:collegio rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Francesco_V_di_Castelalto">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Ugo_Zaniboni_Ferino">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Filippo_Foti">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Edoardo_Martini">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Wildix">
+    <dbpedia-owl:foundationPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoFondazione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Unione_Sportiva_Alessandria_1912_2011-2012">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Rimini_Calcio_Football_Club_2002-2003">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Rimini_Calcio_Football_Club_2001-2002">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Chiesa_di_San_Francesco_Saverio_(Trento)">
+    <dbpedia-owl:locationCity rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Mario_Raffaelli">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Promozione_Trentino-Alto_Adige_1992-1993">
+    <dbpprop-it:editore rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Football_Club_Pro_Vercelli_1892_2011-2012">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Jacob_Sieberer">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Melta_di_Gardolo">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Andrea_Mascagni">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoMorte rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Unione_Sportiva_Alessandria_Calcio_1983-1984">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Chiesa_di_Santa_Croce_(Trento)">
+    <dbpedia-owl:locationCity rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Chiesa_di_Santa_Chiara_(Trento)">
+    <dbpedia-owl:locationCity rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stefano_Bellesini">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Torneo_di_Viareggio_2005">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Sopramonte">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Martino_Aichner">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:natoA rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Prada_Biscotti">
+    <dbpedia-owl:foundationPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:sede rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoFondazione rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Novara_Calcio_1982-1983">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Novara_Calcio_1995-1996">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Supercoppa_italiana_di_calcio_femminile_2008">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Nogarè_(Pergine_Valsugana)">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Unione_Sportiva_Pro_Vercelli_1994-1995">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Spini_di_Gardolo">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Novara_Calcio_2002-2003">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Associazione_Calcio_Reggiana_1929-1930">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Sella_di_Pergine">
+    <dbpprop-it:localitàCollegate rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Dante_Clauser">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Franco_Panizza_(politico)">
+    <dbpprop-it:collegio rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Il_margine_(casa_editrice)">
+    <dbpedia-owl:location rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:foundationPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Michele_Nicoletti">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoNascita rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Edizioni_Centro_Studi_Erickson">
+    <dbpedia-owl:location rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:foundationPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Associazione_Calcio_Siena_1982-1983">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Meano_(Trento)">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Associazione_Calcio_Reggiana_1930-1931">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Flavia_Piccoli_Nardelli">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoNascita rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Associazione_Sportiva_Dilettantistica_Fortitudo_Mozzecane_Calcio_Femminile_2010-2011">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Circondario_di_Trento">
+    <dbpedia-owl:administrativeDistrict rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:capital rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:capoluogo rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Foot_Ball_Association_Novara_1929-1930">
+    <dbpprop-it:cittarbitro rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Pietra_del_Malconsiglio">
+    <dbpprop-it:città rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Antonio_Pedrotti">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Luigi_Pigarelli">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Enrico_Miaroma">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Remo_Wolf">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Thomas_Degasperi">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Alide_Maria_Salvetta">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Desiderio_Reich">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Vigilio_Inama">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Adriano_Bernardi">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoNascita rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Alberto_Graziadei">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Adriano_Goio">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Andrea_Castelli">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Gustavo_Venturi">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Ernest_von_Koerber">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Matteo_Burgsthaler">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Nadio_Delai">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Thomas_Johann_Kaspar_von_Thun-Hohenstein">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Domenico_Antonio_Thun">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Raffaele_Zotti">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Antonio_Mazzetti">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Biagio_Virgili">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stefano_Zuech">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Mauro_Paissan">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoNascita rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Gino_Pancheri">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Eduard_Reut-Nicolussi">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+    <dbpprop-it:luogoNascita rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Patrick_Trentini">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Trento_(disambigua)">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Enrico_Forti">
+    <dbpedia-owl:birthPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Franco_Bertoldi">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Delaìto_da_Noarna">
+    <dbpedia-owl:deathPlace rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Città_di_Trento">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.wikipedia.org/wiki/Trento">
+    <foaf:primaryTopic rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org:18080/data/Trento.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document" />
+    <foaf:primaryTopic rdf:resource="http://it.dbpedia.org/resource/Trento" />
+  </rdf:Description>
+</rdf:RDF>

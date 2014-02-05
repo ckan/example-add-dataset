@@ -1,0 +1,40 @@
+{
+  "dataset": {
+   "name": "adur_district_spending",
+     "label": "Adur District Spending",
+     "description": "Spending data for Adur District Council, April 2009.\n\n* [Source](http://www.spotlightonspend.org.uk/Downloads/1038).\n\nFrom Spikes Cavell, Spotlight on Spend.\n\nRecords from April 2009-March 2010 are available (As of:2011-08-04)",
+     "currency": "GBP",
+     "unique_keys":  ["amount"],
+     "temporal_granularity": "month"
+   },
+   "mapping": {
+      "time": {
+         "type": "value",
+         "description": "Date payment recorded in accounts",
+         "label": "Date",
+         "datatype": "date",
+         "default_value": "",
+         "column": "Date"
+         },
+            "to" : {
+              "fields" : [
+                {"column" : "Supplier", "datatype" : "string", "constant" : "", "name" : "Supplier"} 
+                ],
+              "type" : "entity",
+              "label" : "Paid to"
+            },
+            "from" : { 
+                 "fields" : [ 
+                   {"column" : "Body Name", "datatype" : "string", "constant" : "", "name" : "Money Source"} 
+                   ], 
+                 "type" : "entity", 
+                 "label" : "Paid by"
+               },
+            "amount": {
+               "column": "Amount",
+               "datatype": "float",
+               "type": "value",
+               "description": "Transaction amount in GBP.",
+               "label": "Amount"
+             }
+   }}
