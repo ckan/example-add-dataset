@@ -5,8 +5,12 @@ Example script that uses the CKAN API to create a dataset and upload some files 
 
 Requires [ckanapi](https://github.com/ckan/ckanapi) and [requests](http://docs.python-requests.org/).
 
-Usage:
+## Usage:
 
-  python add_example_datasets.py API-KEY
-  
+```bash
+$ python add_example_datasets.py API-KEY
+```
+
+---
+
 Originally written by @seanh
